@@ -41,7 +41,7 @@ See class "KeyboardControl" to learn keyboard settings for various oper
 
 ## Format of Saved Images
 
-.npy format is taking more space than a PNG image. JPEG images are prone to data loss while reading and writing the image. Hence, PNG format have been used to save the images.
+PEG images are prone to data loss while reading and writing the image. And .npy format is takes more space than a PNG image. Hence, PNG format have been used to save the images.
 
 ## AWS
 
